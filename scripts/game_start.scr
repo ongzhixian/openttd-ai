@@ -1,0 +1,4 @@
+script game.log
+echo "Game start"
+getsysdate
+getdate

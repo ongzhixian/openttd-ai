@@ -1,0 +1,4 @@
+script openttd.log
+echo "Starting server"
+server_name "ZOGA330"
+developer 2
